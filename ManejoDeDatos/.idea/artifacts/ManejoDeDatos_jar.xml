@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ManejoDeDatos:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ManejoDeDatos_jar</output-path>
+    <root id="archive" name="ManejoDeDatos.jar">
+      <element id="module-output" name="ManejoDeDatos" />
+    </root>
+  </artifact>
+</component>
