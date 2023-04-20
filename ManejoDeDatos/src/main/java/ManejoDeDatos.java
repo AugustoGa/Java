@@ -28,7 +28,7 @@ public class ManejoDeDatos {
         //El método valueOf de String devuelve el valor primitivo de un objeto String como un tipo de dato cadena
         String str = String.valueOf(prueba);
         //El mètodo Integer.parseInt Convierte una cadena de texto en un número entero.
-        int intPrueba = Integer.parseInt(str.substring(0, str.indexOf('.')));
+        int intPrueba = Integer.parseInt(str.substring(0,str.indexOf('.')));
         //El mètodo Float.parseFloat Convierte una cadena de texto en un número decimal (float).
         float decimalPrueba = Float.parseFloat(str.substring(str.indexOf('.')));
         System.out.println(intPrueba);
