@@ -1,4 +1,4 @@
-package model;
+package com.augustogallo.PreEntrega1.model;
 
 import jakarta.persistence.*;
 

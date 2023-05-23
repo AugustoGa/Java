@@ -1,7 +1,2 @@
-package repository;
-
-import model.Client;
-import org.springframework.data.jpa.repository.JpaRepository;
-
-public interface ClientRepository extends JpaRepository<Client , Integer> {
+package com.augustogallo.PreEntrega1.repository;public interface ClientRepository {
 }

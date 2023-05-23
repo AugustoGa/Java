@@ -1,4 +1,4 @@
-package model;
+package com.augustogallo.PreEntrega1.model;
 
 
 import jakarta.persistence.*;
@@ -16,8 +16,10 @@ public class Client {
 
     private String name;
 
+    @Column(name="lastname")
     private String lastname;
 
+    @Column(name = "docnumber")
     private String docnumber;
 
     //Getter and Setters
