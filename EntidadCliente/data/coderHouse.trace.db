@@ -1,0 +1,4 @@
+2023-05-30 22:54:13 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "[*]id"; se esperaba "INSERT"
+Syntax error in SQL statement "[*]id"; expected "INSERT"; SQL statement:
+id [42001-214]
